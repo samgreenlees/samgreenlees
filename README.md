@@ -1,6 +1,6 @@
  Hi, I’m Sam
  
- I’m interested in web development, creating with Pyhton and CAD. I"m also a sucker for good data visualization, 
+ I’m interested in web development, creating with Python and CAD. I"m also a sucker for good data visualization, 
  and like all good zoomers, game development was always my dream job as a kid.
 
 
